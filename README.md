@@ -1,6 +1,5 @@
 # David Chu's China Bistro
 
-### The site is published at [David Chu's China Bistro]().
 
 ## Description
 This was the final project I did as a part of a Coursera course - [HTML,CSS and JavaScript For Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome). This is fairly a basic multi-page responsive website of a fictitious restaurant, which can be used as a template for building restaurant portfolio websites. 
@@ -22,6 +21,3 @@ This project was my first real delve into Web Development.
 - Working with tools such as Visual Studio Code
 - A glimpse into the World Of Web
 - Making code readable and documentation
-
-## Acknowledgements
-I would like to thank Prof. Yaakov Chain (@[Yaakov Chain](https://clearlydecoded.com/)) for his highly extensive and methodical lectures on the basics of Web Development. I never could have imagined implementing a full-fledged web site all from scratch.
